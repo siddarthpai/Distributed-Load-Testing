@@ -2,14 +2,8 @@
 
 **Team 39:**
 
-Siddarth.D.Pai - PES2UG21CS925
-
-C Ujwal - PES2UG21CS131
-
-Charan S Gowda - PES2UG21CS140
-
-Thaksha Ganesh - PES2UG21CS575
-
+Final Project for Big Data Course at PES University designed to create a distributed load testing system in collaboration with a team.
+ 
 ## Goal
 
 Design and build a distributed load-testing system that co-ordinates between  
